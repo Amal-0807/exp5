@@ -1,7 +1,8 @@
-name: budget_calculator
-description: Experiment 5 - 24CS2016 Building Applications using Flutter
-publish_to: 'none'
-version: 1.0.0+1
+name: exp5
+description: Flutter experiment 5 - a budget calculator app for tracking expenses against a budget.
+version: 1.0.0
+homepage: https://github.com/Amal-0807/exp5_budget_calculator
+repository: https://github.com/Amal-0807/exp5_budget_calculator
 
 environment:
   sdk: '>=3.4.0 <4.0.0'

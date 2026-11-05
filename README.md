@@ -1,4 +1,19 @@
-# Experiment 5
+# exp5
+
+Flutter experiment 5 - a budget calculator app for tracking expenses against a budget.
+
+## Use
+
+```
+flutter pub add exp5
+```
+
+```dart
+import 'package:exp5/exp5.dart';
+
+runApp(const BudgetApp());
+```
+
 
 ## Run in VS Code
 1. Open this folder in VS Code (File > Open Folder).
